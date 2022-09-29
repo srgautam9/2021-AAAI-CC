@@ -44,14 +44,3 @@ We uploaded the pretrained model which achieves the performance reported in the 
 
 CIFAR-10, CIFAR-100, STL-10 will be automatically downloaded by Pytorch. Tiny-ImageNet can be downloaded from http://cs231n.stanford.edu/tiny-imagenet-200.zip. For ImageNet-10 and ImageNet-dogs, we provided their description in the "dataset" folder.
 
-# Citation
-
-If you find CC useful in your research, please consider citing:
-```
-@article{li2020contrastive,
-  title={Contrastive Clustering},
-  author={Li, Yunfan and Hu, Peng and Liu, Zitao and Peng, Dezhong and Zhou, Joey Tianyi and Peng, Xi},
-  journal={arXiv preprint arXiv:2009.09687},
-  year={2020}
-}
-```
